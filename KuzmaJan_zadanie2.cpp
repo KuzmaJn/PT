@@ -225,19 +225,19 @@ void printList(const List *list) {
 }
 
 int main() {
-    /// vytvorenie prazdneho listu
-    //List *list = new List;
-    //list->first = nullptr;
+    // vytvorenie prazdneho listu
+    List *list = new List;
+    list->first = nullptr;
 
     // priradenie hodnot do listu --- ULOHA 1
-    /*const int x = 5;
+    const int x = 5;
     for(int i = 0; i < x; i++) {
         prependNode(list, x - i);
-    }*/
+    }
 
-    //prependNode(list, 10);            //uloha 1
-    //appendNode(list, 19);             //uloha 2
-    //printList(list);
+    prependNode(list, 10);            //uloha 1
+    appendNode(list, 19);             //uloha 2
+    printList(list);
 
     //uloha 3
     /*int data[5] = {1,0,-2,3,-4};
