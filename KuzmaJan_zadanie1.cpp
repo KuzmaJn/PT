@@ -228,7 +228,7 @@ Result calculate(int *output, const CalculationInput * input) {
 //-------------------------------------------------------------------------------------------------
 
 int main() {
-/*    int data[] = {100, 299, 4, 78, 9};
+    int data[] = {100, 299, 4, 78, 9};
     printArray(data, 5);
 
     int sum = sumOfTwoNumbersFromConsole();
@@ -252,6 +252,6 @@ int main() {
     int output = 0;
     CalculationInput input{1, 0, Operation::PLUS};
     Result example = calculate(&output, &input);
-    cout << output;*/
+    cout << output;
     return 0;
 }
