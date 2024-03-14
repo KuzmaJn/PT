@@ -1,3 +1,2 @@
-In this repository is my schoolwork.
-## Programovacie techniky
-I learn basics of C++ language and how to use computer memory effectively. We learn some sorting algorithms (quicksort, merge sort, bubble sort...)
+# Programming technics
+In this repositary are my assigments from last semester. I learned basics of C++ language and how to use computer memory effectively. Also I learned some algorithms (quicksort, merge sort, bubble sort...)
